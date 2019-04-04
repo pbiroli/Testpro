@@ -1,3 +1,3 @@
 #! /bin/bash
 
-echo "Hello, this is my verified original script"
+echo "Hello, this is my verified original non-versatile script"
