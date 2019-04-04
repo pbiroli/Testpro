@@ -1,3 +1,3 @@
 #! /bin/bash
 
-echo "Hello, this is my test script"
+echo "Hello, this is my verified original script"
